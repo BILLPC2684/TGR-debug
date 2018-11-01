@@ -8,7 +8,7 @@ BILLPC2684's offical: http://billcraft.byethost33.com/TheGameRazer/
 
 # Is the current build runnable? (will update)
 ## For Build: v0.0.32 Alpha
-\\Runnable Build: `Yes`\
+\\Runnable Build: `Yes?`\
 \\Stable CPU EMU: `Yes`     (not completed)\
 \\Stable Memory:  `Yes`     (128 MB of RAM | 64 MB of VRAM)\
 \\Has Video:      `Yes`     (SDL | uses OpenGL)\
